@@ -1,0 +1,12 @@
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\bin\Debug\net6.0\MathLib.deps.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\bin\Debug\net6.0\MathLib.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\obj\Debug\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfo.cs
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\obj\Debug\net6.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\obj\Debug\net6.0\MathLib.sourcelink.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\obj\Debug\net6.0\MathLib.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\obj\Debug\net6.0\refint\MathLib.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\obj\Debug\net6.0\MathLib.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\MathLib\obj\Debug\net6.0\ref\MathLib.dll

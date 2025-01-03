@@ -1,0 +1,12 @@
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\bin\Debug\net6.0\PartialClass.deps.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\bin\Debug\net6.0\PartialClass.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\bin\Debug\net6.0\PartialClass.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\obj\Debug\net6.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\obj\Debug\net6.0\PartialClass.AssemblyInfo.cs
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\obj\Debug\net6.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\obj\Debug\net6.0\PartialClass.sourcelink.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\obj\Debug\net6.0\PartialClass.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\obj\Debug\net6.0\refint\PartialClass.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\obj\Debug\net6.0\PartialClass.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\PartialClass\obj\Debug\net6.0\ref\PartialClass.dll

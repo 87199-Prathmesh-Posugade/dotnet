@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B79363-A6B2-442F-ACFC-117F3C15A8A2}|HRMS\\HRMS.csproj|C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B79363-A6B2-442F-ACFC-117F3C15A8A2}|HRMS\\HRMS.csproj|solutionrelative:hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F526D-685E-43D6-986F-0A802D8D6B79}|EmployeeLib\\EmployeeLib.csproj|c:\\users\\ganesh\\desktop\\dotnet\\assignmentsolutions\\employeelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5F526D-685E-43D6-986F-0A802D8D6B79}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F32FFE-2489-44C7-A488-9A91D3FEE66D}|AttributesLib\\AttributesLib.csproj|c:\\users\\ganesh\\desktop\\dotnet\\assignmentsolutions\\attributeslib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F32FFE-2489-44C7-A488-9A91D3FEE66D}|AttributesLib\\AttributesLib.csproj|solutionrelative:attributeslib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5F526D-685E-43D6-986F-0A802D8D6B79}|EmployeeLib\\EmployeeLib.csproj|C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\employeelib\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{ED5F526D-685E-43D6-986F-0A802D8D6B79}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\AttributesLib\\Class1.cs",
+              "RelativeDocumentMoniker": "AttributesLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\AttributesLib\\Class1.cs",
+              "RelativeToolTip": "AttributesLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:07:43.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\EmployeeLib\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "EmployeeLib\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\EmployeeLib\\ClassDiagram1.cd",
+              "RelativeToolTip": "EmployeeLib\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-01-02T14:16:41.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\HRMS\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS\\Program.cs",
+              "ToolTip": "C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\HRMS\\Program.cs",
+              "RelativeToolTip": "HRMS\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwEIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:08:53.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\EmployeeLib\\Class1.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ganesh\\Desktop\\dotnet\\AssignmentSolutions\\EmployeeLib\\Class1.cs",
+              "RelativeToolTip": "EmployeeLib\\Class1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA4wCoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:07:59.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

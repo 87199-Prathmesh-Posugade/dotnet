@@ -1,0 +1,1 @@
+CREATE TABLE Student(Name VARCHAR(255), address VARCHAR(255), course VARCHAR(255), RollNo INT PRIMARY KEY);CREATE TABLE employee(name VARCHAR(255), address VARCHAR(255), salary DOUBLE, designation VARCHAR(255), EmpNo INT PRIMARY KEY);

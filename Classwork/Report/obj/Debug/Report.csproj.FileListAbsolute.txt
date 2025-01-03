@@ -1,0 +1,7 @@
+C:\Users\Ganesh\Desktop\dotnet\Classwork\Report\bin\Debug\Report.exe.config
+C:\Users\Ganesh\Desktop\dotnet\Classwork\Report\bin\Debug\Report.exe
+C:\Users\Ganesh\Desktop\dotnet\Classwork\Report\bin\Debug\Report.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\Report\obj\Debug\Report.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\Report\obj\Debug\Report.exe
+C:\Users\Ganesh\Desktop\dotnet\Classwork\Report\obj\Debug\Report.pdb

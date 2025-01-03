@@ -1,0 +1,12 @@
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\bin\Debug\net6.0\ORMAnnotations.deps.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\bin\Debug\net6.0\ORMAnnotations.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\bin\Debug\net6.0\ORMAnnotations.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\obj\Debug\net6.0\ORMAnnotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\obj\Debug\net6.0\ORMAnnotations.AssemblyInfoInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\obj\Debug\net6.0\ORMAnnotations.AssemblyInfo.cs
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\obj\Debug\net6.0\ORMAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\obj\Debug\net6.0\ORMAnnotations.sourcelink.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\obj\Debug\net6.0\ORMAnnotations.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\obj\Debug\net6.0\refint\ORMAnnotations.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\obj\Debug\net6.0\ORMAnnotations.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\ORMAnnotations\obj\Debug\net6.0\ref\ORMAnnotations.dll

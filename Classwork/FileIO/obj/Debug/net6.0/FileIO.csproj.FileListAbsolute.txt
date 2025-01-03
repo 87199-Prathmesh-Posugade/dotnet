@@ -1,0 +1,15 @@
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\bin\Debug\net6.0\FileIO.exe
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\bin\Debug\net6.0\FileIO.deps.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\bin\Debug\net6.0\FileIO.runtimeconfig.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\bin\Debug\net6.0\FileIO.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\bin\Debug\net6.0\FileIO.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\FileIO.AssemblyInfoInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\FileIO.AssemblyInfo.cs
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\FileIO.sourcelink.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\FileIO.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\refint\FileIO.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\FileIO.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\FileIO.genruntimeconfig.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\FileIO\obj\Debug\net6.0\ref\FileIO.dll

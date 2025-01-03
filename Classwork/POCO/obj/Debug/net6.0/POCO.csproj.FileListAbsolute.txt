@@ -1,0 +1,16 @@
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\bin\Debug\net6.0\POCO.deps.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\bin\Debug\net6.0\POCO.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\bin\Debug\net6.0\POCO.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\bin\Debug\net6.0\ORMAnnotations.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\bin\Debug\net6.0\ORMAnnotations.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\POCO.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\POCO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\POCO.AssemblyInfoInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\POCO.AssemblyInfo.cs
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\POCO.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\POCO.sourcelink.json
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\POCO.csproj.Up2Date
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\POCO.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\refint\POCO.dll
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\POCO.pdb
+C:\Users\Ganesh\Desktop\dotnet\Classwork\POCO\obj\Debug\net6.0\ref\POCO.dll
