@@ -1,0 +1,7 @@
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0201\obj\Debug\Assignment0201.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0201\obj\Debug\Assignment0201.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0201\bin\Debug\Assignment0201.exe.config
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0201\bin\Debug\Assignment0201.exe
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0201\bin\Debug\Assignment0201.pdb
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0201\obj\Debug\Assignment0201.exe
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0201\obj\Debug\Assignment0201.pdb
